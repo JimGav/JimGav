@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Theory Of Computation**
 
-- 👨‍💻 All of my projects are available at [jimgav.github.io/portfolio_website](jimgav.github.io/portfolio_website)
+- 👨‍💻 All of my projects are available at [jimgav.github.io/portfolio_website](https://jimgav.github.io/portfolio_website)
 
 - 📫 How to reach me **dimitrisgav04@gmail.com**
 
