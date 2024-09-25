@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my chess engine](https://github.com/JimGav/ChessAI)
 
-- 🌱 I’m currently learning **Theory Of Computation**
+- 🌱 I’m currently learning **Operating Systems**, **Numerical Analysis**, **Number Theory**, **Database System Implementation** and **Computer Graphics**. 
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://jimgav.github.io/portfolio)
 
